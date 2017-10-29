@@ -5,8 +5,6 @@ An Electron app to process 3d models.
 
 # Usage
 
-```
-yarn install
+    yarn install
 
-yarn start && yarn run electron
-```
+    yarn start && yarn run electron
